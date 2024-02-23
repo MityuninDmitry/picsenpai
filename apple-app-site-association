@@ -3,7 +3,7 @@
         "apps": [],
         "details": [{
             "appID": "U2FNWP55H5.com.mityunindmitry.PicSenpAI",
-            "paths": ["*"]
+            "paths": ["/*"]
         }]
     }
 }
